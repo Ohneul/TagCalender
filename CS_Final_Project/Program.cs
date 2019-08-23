@@ -16,7 +16,7 @@ namespace CS_Final_Project
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Calender());
+            Application.Run(new Tag_Calender());
         }
     }
 }
