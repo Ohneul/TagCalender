@@ -1,0 +1,12 @@
+D:\Coding\C\CS_Final_Project\CS_Final_Project\bin\Debug\CS_Final_Project.exe.config
+D:\Coding\C\CS_Final_Project\CS_Final_Project\bin\Debug\CS_Final_Project.exe
+D:\Coding\C\CS_Final_Project\CS_Final_Project\bin\Debug\CS_Final_Project.pdb
+D:\Coding\C\CS_Final_Project\CS_Final_Project\obj\Debug\CS_Final_Project.csprojAssemblyReference.cache
+D:\Coding\C\CS_Final_Project\CS_Final_Project\obj\Debug\CS_Final_Project.Form1.resources
+D:\Coding\C\CS_Final_Project\CS_Final_Project\obj\Debug\CS_Final_Project.Properties.Resources.resources
+D:\Coding\C\CS_Final_Project\CS_Final_Project\obj\Debug\CS_Final_Project.csproj.GenerateResource.cache
+D:\Coding\C\CS_Final_Project\CS_Final_Project\obj\Debug\CS_Final_Project.csproj.CoreCompileInputs.cache
+D:\Coding\C\CS_Final_Project\CS_Final_Project\obj\Debug\CS_Final_Project.exe
+D:\Coding\C\CS_Final_Project\CS_Final_Project\obj\Debug\CS_Final_Project.pdb
+D:\Coding\C\CS_Final_Project\CS_Final_Project\obj\Debug\CS_Final_Project.Form2.resources
+D:\Coding\C\CS_Final_Project\CS_Final_Project\obj\Debug\CS_Final_Project.Form3.resources
